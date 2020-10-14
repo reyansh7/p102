@@ -1,0 +1,7 @@
+assignment:project 101
+read the instructions and jot down the summary precisely
+create a folder 
+open visual studio code 
+write the program with the help of instructions
+complete the program
+submit it in whiteHat Jr
